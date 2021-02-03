@@ -408,6 +408,10 @@ export default {
               {
                 label: "ACL4SSR_WithGFW 本地 GFW列表",
                 value: "config/ACL4SSR_WithGFW.ini"
+              },
+              {
+                label: "自用",
+                value: "config/123.ini"
               }
             ]
           },

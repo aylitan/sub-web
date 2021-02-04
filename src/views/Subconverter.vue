@@ -411,7 +411,7 @@ export default {
               },
               {
                 label: "自用",
-                value: "config/example_external_config.ini"
+                value: "config/123.ini"
               }
             ]
           },
